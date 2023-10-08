@@ -1,7 +1,6 @@
 <div align ="center">
     <h3>Hola 👋,  me llamo<strong> Omar Hevia, </strong> soy Front End Developer y este es mi perfil para el Master Universitario de Desarrollo de Sitios y Aplicaciones Web </h3>
-    <a href="https://www.uoc.edu/portal/es/index.html" target="_blank" rel="noreferrer"> <img src="https://bid-dimad.org/encuentrosbid/noveno/wp-content/uploads/2021/09/26_Universitat-Oberta-de-Catalunya-UOC-1024x264.png" alt="UOC" height="40" style=" margin-bottom: 25px"/></a>
-      <img src="assets\Cover.png" width="741" height="368" style=" box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-top: 25px;"/>
+    <a href="https://www.uoc.edu/portal/es/index.html" target="_blank" rel="noreferrer"> <img src="https://bid-dimad.org/encuentrosbid/noveno/wp-content/uploads/2021/09/26_Universitat-Oberta-de-Catalunya-UOC-1024x264.png" alt="UOC" height="40"/></a>
   </div><br>
 
   ---
