@@ -1,5 +1,5 @@
 <div align ="center">
-  <h3>Hola 👋,  me llamo<strong> Omar Hevia, </strong> soy Front End Developer y este es mi perfil para el Master Universitario de Desarrollo de Sitios y Aplicaciones Web de la Universitat Oberta de Catalunya 👨‍💻 </h3><br>
+  <h3>Hola 👋,  me llamo<strong> Omar Hevia, </strong> soy Front End Developer y este es mi perfil para el Master Universitario de Desarrollo de Sitios y Aplicaciones Web de la </h3><a href="https://www.uoc.edu/portal/es/index.html" target="_blank" rel="noreferrer"> <img src="https://es.wikipedia.org/wiki/Universidad_Abierta_de_Cataluña#/media/Archivo:Logotipo_UOC.svg" alt="html5" width="40" height="40"/><<br>
     <img src="assets\Cover.png" width="741" height="368" style=" box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
 </div><br>
 
